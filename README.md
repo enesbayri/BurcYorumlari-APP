@@ -11,7 +11,7 @@
 
 <br><hr><br>
 <p align="center">
-    <img src="assets/burcYorumlariAnaSayfa_ui.jpg" style="border-radius: 10px;margin:10px " width="150">
-    <img src="assets/burcDetay2_ui.jpg" style="border-radius: 10px;margin:10px " width="150">
-    <img src="assets/burcDetay_ui.jpg" style="border-radius: 10px;margin:10px " width="150">
+    <img src="assets/burcYorumlariAnaSayfa.jpg" style="border-radius: 10px;margin:10px " width="150">
+    <img src="assets/burcDetay2.jpg" style="border-radius: 10px;margin:10px " width="150">
+    <img src="assets/burcDetay.jpg" style="border-radius: 10px;margin:10px " width="150">
 </p>
