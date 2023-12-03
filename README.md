@@ -14,7 +14,6 @@
     <img src="assets/burcDetay2.jpg" style="border-radius: 10px;margin:10px " width="200">
 </p>
 <p align="center">
-    
     <img src="assets/burcDetay.jpg" style="border-radius: 10px;margin:10px " width="150">
     <img src="assets/burcYorumlariAnaSayfa.jpg" style="border-radius: 10px;margin:10px " width="150">
 </p>
